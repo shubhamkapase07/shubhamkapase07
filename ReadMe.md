@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Shubham!<br><br>MLOps Engineer learning to take ML models from notebooks to production. Exploring Python, machine learning, experiment tracking, Docker, CI/CD, and cloud deployment. I enjoy building projects, automating workflows, and figuring out why something works perfectly on my machine but nowhere else. Background in analytics, business analysis, and software projects. Currently learning: MLOps, MLflow, model deployment, and ML pipelines. Goal: Build reliable, scalable, production-ready ML systems.<br><br>- Let's connect, build, and debug something interesting!
+👋 Hey, I'm Shubham!<br><br>MLOps Engineer learning to take ML models from notebooks to production. Exploring Python, machine learning, experiment tracking, Docker, CI/CD, and cloud deployment. I enjoy building projects, automating workflows, and figuring out why something works perfectly on my machine but nowhere else. Background in analytics, business analysis, and software projects. Currently learning: MLOps, MLflow, model deployment, and ML pipelines. Goal: Build reliable, scalable, production-ready ML systems. Let's connect, build, and debug something interesting!
 
 
 ## 🌐 Socials:
